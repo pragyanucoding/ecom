@@ -1,0 +1,232 @@
+import img1 from '../db/img/16-20 ammonium phosphate.webp'
+import img2 from '../db/img/20-20-0.jpg'
+import img3 from '../db/img/borax-10.webp'
+import img4 from '../db/img/borax-20.png'
+import img5 from '../db/img/copper sulphate.jpg'
+import img6 from '../db/img/di- ammonium phosphat.jpg'
+import img7 from '../db/img/ferrous sulphate.jpg'
+import img8 from '../db/img/manganese sulphate.jpg'
+import img9 from '../db/img/mangnesium sulphate.jpg'
+import img10 from '../db/img/muriate of potash.webp'
+import img11 from '../db/img/neem cake.jpg'
+import img12 from '../db/img/npk 17-17-17.jpg'
+import img13 from '../db/img/npk-10-26-26-fertilizer.webp'
+import img14 from '../db/img/single super phosphate.webp'
+import img15 from '../db/img/suphala-15-15-15.webp'
+import img16 from '../db/img/urea.jpg'
+import img17 from '../db/img/zinc sulphate.jpg'
+
+
+const fertilizers = [
+    {
+        name:"f1",
+        price:"200",
+        img: img1
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img2
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img3
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img4
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img5
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img6
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img7
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img8
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img9
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img10
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img11
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img12
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img13
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img14
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img15
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img16
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:img17
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+    {
+        name:"f1",
+        price:"200",
+        img:"https://picsum.photos/id/237/200/300"
+    },
+];
+export default fertilizers;
